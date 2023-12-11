@@ -11975,4 +11975,13 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.myHeader {
+  background-image: url(../assets/img/pexels-george-dolgikh-1303098.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.myNavText {
+  color: white;
 }/*# sourceMappingURL=main.css.map */

@@ -89,7 +89,7 @@ function populateCards(cards) {
 
     cards.forEach((card, index) => {
         const cardContent = `
-            <div class="card h-100">
+            <div class="card h-100 border border-warning-subtle">
                 <img src="${card.imageUrl}" class="card-img-top" alt="Immagine prodotto">
                 <div class="card-body">
                     <h5 class="card-title">${card.name}</h5>
